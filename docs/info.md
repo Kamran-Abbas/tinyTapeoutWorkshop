@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Binary up counter is interfaced using AND, OR and NOT logic gates to allow for the pattern sabba to be displayed on the 7-segment display by 
 
 ## How to test
 
-Explain how to use your project
+Run the system at clock frequency of 1Hz and observe the output as it should should SAbbA
 
 ## External hardware
 
