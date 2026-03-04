@@ -26,13 +26,13 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
+  uo[0]: "sevsegA"
+  uo[1]: "sevsegB"
+  uo[2]: "sevsegC"
+  uo[3]: "sevsegD"
+  uo[4]: "sevsegE"
+  uo[5]: "sevsegF"
+  uo[6]: "sevsegG"
   uo[7]: ""
 
   # Bidirectional pins
